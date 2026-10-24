@@ -1,6 +1,6 @@
 # Lasik for Claude Code
 
-A dark, high contrast theme for [Claude Code](https://code.claude.com), made for sensitive eyes and long reading sessions. It's part of the Lasik family (also for [VS Code](https://github.com/aamnah/lasik-vscode-theme), [Konsole](https://github.com/LasikTheme/konsole) and [Kitty](https://github.com/LasikTheme/kitty)), and every color comes from the [Lasik palette](https://github.com/LasikTheme/palette).
+A dark, high contrast theme for [Claude Code](https://code.claude.com), made for sensitive eyes and long reading sessions. It's part of the Lasik family (also for [VS Code](https://github.com/LasikTheme/vscode), [Konsole](https://github.com/LasikTheme/konsole) and [Kitty](https://github.com/LasikTheme/kitty)), and every color comes from the [Lasik palette](https://github.com/LasikTheme/palette).
 
 - **Easy to tell who said what:** your messages sit on their own periwinkle-slate background.
 - **High contrast:** all text is at least 7:1 (WCAG AAA) against the background.
