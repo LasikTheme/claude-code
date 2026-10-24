@@ -4,7 +4,7 @@ A dark, high contrast theme for [Claude Code](https://code.claude.com), made for
 
 - **Easy to tell who said what:** your messages sit on their own periwinkle-slate background.
 - **High contrast:** all text is at least 7:1 (WCAG AAA) against the background.
-- **No halo:** the main text is a light lavender (`#e8ecfd`) instead of pure white, which glows on a dark background.
+- **No halo:** the main text is a light periwinkle (`#b7c9ff`, NEUTRAL_300) instead of pure white, which glows on a dark background.
 - **Color-blind friendly base:** colors the theme doesn't set come from Claude Code's `dark-daltonized` theme.
 
 ## Install
